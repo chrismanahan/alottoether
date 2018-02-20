@@ -1,0 +1,14 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "ether lottery",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "github:ethereum/web3.js"
+  }
+}
